@@ -1,1 +1,9 @@
-Credit card fraud represents a significant challenge for financial institutions worldwide, making the detection of fraudulent transactions crucial to protect both companies and customers. The purpose of this project is to build and evaluate several machine learning models capable of accurately classifying transactions as either normal or fraudulent.
+# Credit Card Fraud Detection
+
+HTML version of the project: https://axelcohen75.github.io/credit-card-fraud-detection/
+
+This project aims to detect fraudulent credit card transactions using machine learning on an imbalanced dataset.
+
+The work included data exploration, preprocessing, class imbalance handling, model training, and performance evaluation with appropriate metrics for fraud detection.
+
+The results show that fraud detection is possible with strong performance, but the main challenge remains the imbalance of the dataset. The project concludes that evaluation should focus more on precision, recall, and fraud-related errors than on accuracy alone.
