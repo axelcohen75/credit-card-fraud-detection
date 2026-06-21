@@ -1,0 +1,12 @@
+# Data files (too large for GitHub, download from Kaggle)
+creditcard.csv
+creditcard.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
